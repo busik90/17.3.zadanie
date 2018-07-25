@@ -1,0 +1,17 @@
+{
+  "name": "17.3.Operacje_CRUD_na_pliku_JSON",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [
+    "Node.js",
+    "ExpressJS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
